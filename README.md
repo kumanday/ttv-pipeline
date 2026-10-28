@@ -192,7 +192,7 @@ Remote backends (Runway, Veo3, Minimax) manage their own scaling and do not use 
 
 1. Clone this repository
    ```bash
-   git clone https://github.com/trilogy-group/ttv-pipeline.git
+   git clone https://github.com/kumanday/ttv-pipeline.git
    cd ttv-pipeline
    ```
 

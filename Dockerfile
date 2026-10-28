@@ -19,7 +19,7 @@ RUN curl -LsSf https://astral.sh/uv/install.sh -o /uv-installer.sh && \
 WORKDIR /workspace
 
 # Clone TTV Pipeline repository
-RUN git clone https://github.com/trilogy-group/ttv-pipeline.git
+RUN git clone https://github.com/kumanday/ttv-pipeline.git
 WORKDIR /workspace/ttv-pipeline
 
 # Create frameworks directory for dependencies

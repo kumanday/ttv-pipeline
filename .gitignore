@@ -56,3 +56,6 @@ history.txt
 *.zip
 *.tar.gz
 *.tgz
+
+# Local service-account credential
+/ai-coe-454404-df4ebc146821.json
